@@ -13,4 +13,11 @@ and I am also planning on adding 2 18650 Li-on batteries to get it running even 
 <img width="784" height="920" alt="image" src="https://github.com/user-attachments/assets/eafb391b-1b28-4df1-b7d9-2c126ab7d1dd" />
 <img width="790" height="940" alt="image" src="https://github.com/user-attachments/assets/95d0585f-1cb3-434d-95f4-3205dec3906b" />
 
-**Total time spent: 2 hours**
+I then proceeded to not go to sleep, and to finish the BOM xD, so I spent another hour researching power paths, speakers, microcontrollers (again), and so I chose to use an esp32 S3-N16R8, because it has a lot of headroom for saving music, and a lot of available pins.
+I also added a 40mm speaker, but I don't know how well it will sound, I searched a lot for better options but at that size, nothing seemed very good (also IDK anything about speakers, and half of them didn't have info in the description).
+I added a MAX98357A driver for the speaker, it seemed to be made for it because it has all the right specs.
+For the power I will use 2 18650 batteries (that I already own) in 1S2P, with a boost converter, on an fully integrated UPS board, that does charging and interrupted power, in case of emmergency.
+And finally I added an acrylic round pannel, to make the clock nicer, idk if I will actually use it tho, if it looks good.
+To round things up I sent my whole BOM to claude to try and identify any incompatibilities or oversights, and it found that A4988 wouldn't work with 5v (only 8.2-45v) so I will probably switch to DRV8836, because I already have those on hand. but it might make firmware a bit harder.
+
+**Total time spent: 3 hours**
