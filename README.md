@@ -1,21 +1,48 @@
 # ALARM
 a large accurate rouse mechanism
-BOM :
+## BOM :
 
-ESP 32 dev kit                [TO REVIEW TO GET BEST FOR PROJECT]
+Raspberry pi pico 2
 
-0.91" oled screen
+BKA30D motors
 
-2 a4988 motor drivers
+GP-02 GPS Module
 
-GP-02 GPS module
+Hall effect sensor
 
-BKA30D double shaft stepper motor
+2x Encoders
 
-3*1mm magnet
+3x Yellow mx switches
 
-hall effect sensor
+0.91" OLED
 
-WS2812B led backlight ring
+24 led ws2812b ring
 
-speaker
+MAX98357A Amplifier
+
+40mm Speaker
+
+2x 1*4mm magnets
+
+## Control interface :
+### Main encoder + button :
+
+long press = activate/deactivate alarm
+
+short press = enable alarm time change mode; press again to save, let time run out to cancel
+
+rotate = change alarm time
+
+### back encoder + button :
+
+long press = recalibrate clock
+
+short press + rotate = change display brightness 
+
+rotate = change alarm volume
+
+### top switches :
+
+left and right = change music
+
+middle = snooze 5 minutes
