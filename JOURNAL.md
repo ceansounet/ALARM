@@ -34,3 +34,25 @@ Now all that I'm left with is this :
 Which are the motors, power board, amplifier, speaker, ring backlight, hall effect sensor, and GPS module.
 
 **Total time spent: 1.5 hour**
+
+# August 18th: Started CAD
+
+It's 10pm and I should go eat, I started the cad by fetching every part from grabcad, and making them myself when I couldn't find them, then I organized them in the way I envisioned, and put constraints to make it feel more secure, next step are :
+
+1- make at least a sketch of the design of the main case, I am looking for mid century vibes
+
+2- research and design the enclosure for the speaker, as I have learnt it can have a big impact on sound quality and power
+
+3- make all of the brackets and holders for the different parts
+
+4- integrate all of the parts into the case nicely, making sure assembly stays simple
+
+5- make the front plate and clock face, and if I have the motivation, I'd like to use a technique called thermoforming, to make a round grill around the front, like this inspiration from Zion Brock.
+
+<img width="740" height="416" alt="image" src="https://github.com/user-attachments/assets/ee13edc6-9b5a-4f1b-a3a4-3e7f3b36de35" />
+
+
+<img width="976" height="548" alt="image" src="https://github.com/user-attachments/assets/0b1a3edb-2d64-4a22-a587-7b393ba2d772" />
+
+**Total time spent: 2 hours**
+
