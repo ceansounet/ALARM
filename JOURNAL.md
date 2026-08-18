@@ -32,4 +32,5 @@ Now all that I'm left with is this :
 <img width="1184" height="788" alt="image" src="https://github.com/user-attachments/assets/1c770f9f-9eac-4463-bc06-90de68493133" />
 
 Which are the motors, power board, amplifier, speaker, ring backlight, hall effect sensor, and GPS module.
+
 **Total time spent: 1.5 hour**
