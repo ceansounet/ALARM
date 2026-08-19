@@ -56,3 +56,13 @@ It's 10pm and I should go eat, I started the cad by fetching every part from gra
 
 **Total time spent: 2 hours**
 
+# August 19th: Really good progress in cad
+
+I see it, the vision, it's coming to life! I made the whole case body for the ALARM, as well as groves for assembly and alignment, might add one on top if needed. I also added the push buttons on top, looking really nice, the design is a bit challenging with all of the different angles and parts, but it's coming together nicely. I think the front plate will be made in 2 parts, one is attached to what I call the sled, which houses all of the parts, and the sled screw into the frame, 2 screws at the top, one on the bottom, and then the thermoformed grill comes in with magnets that attach to the screws underneath, which makes it swappable, different colors for different moods.
+
+Next step is researching accoustics, and then cadding the sled with the speaker housing as needed.
+
+<img width="1034" height="610" alt="image" src="https://github.com/user-attachments/assets/3f857e62-400a-4160-af92-7e1fa7218d95" />
+
+**Total time spent: 2.5 hours**
+
