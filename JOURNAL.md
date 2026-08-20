@@ -66,3 +66,8 @@ Next step is researching accoustics, and then cadding the sled with the speaker 
 
 **Total time spent: 2.5 hours**
 
+# August 20th: Continuing CAD + acoustic research
+
+I spent an hour researching how to make the speaker sound good, and translated that into CAD with a chamber that goes behind it
+
+**Total time spent: 1 hour**
