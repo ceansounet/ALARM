@@ -70,4 +70,7 @@ Next step is researching accoustics, and then cadding the sled with the speaker 
 
 I spent an hour researching how to make the speaker sound good, and translated that into CAD with a chamber that goes behind it
 
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/e35246b3-156b-44fc-8485-12b94e086969" />
+
+
 **Total time spent: 1 hour**
